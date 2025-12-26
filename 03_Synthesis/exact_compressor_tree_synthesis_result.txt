@@ -1,0 +1,6 @@
+
+Exact 8X256 Compressor Tree Synthesis Results in 130 nm process
+
+Total area : 86249.978812 um^2
+
+data arrival time : 30.44 ns

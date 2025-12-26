@@ -1,0 +1,6 @@
+
+Exact 8X256 Traditional Carry-Propagation-Based Adder Tree Synthesis Results in 130 nm process
+
+Total area : 90614.613647 um^2
+
+data arrival time : 37.41 ns
